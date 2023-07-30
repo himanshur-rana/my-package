@@ -1,0 +1,19 @@
+{
+  "name": "@himanshurjj/my-package",
+  "version": "1.0.0",
+  "description": "my package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshur-rana/my-package.git"
+  },
+  "author": "himanshurjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshur-rana/my-package/issues"
+  },
+  "homepage": "https://github.com/himanshur-rana/my-package#readme"
+}
